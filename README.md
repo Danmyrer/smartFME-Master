@@ -25,6 +25,6 @@ Zudem ist in den Clients keine Möglichkeit zum Speichern der Alarmdaten impleme
 
 ## Links:
 Das Projekt ist zu umfassend, um in einem einzelnen Repository gespeichert zu werden, weswegen hier die dazugehörigen Repositorys gespeichert sind:
-- [SmartFME-Receiver-Pi](https://github.com/Danmyrer/smartFME-Reciever)
+- [SmartFME-Receiver-Pi](https://github.com/Danmyrer/smartFME-Reciever-Pi)
 - [SmartFME-Server-Functions](https://github.com/Danmyrer/SmartFME-Server)
 - [SmartFME-Client-Android](https://github.com/Danmyrer/SmartFME-Client-Android)
