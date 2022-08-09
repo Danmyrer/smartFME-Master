@@ -20,3 +20,11 @@ Die Software 'smartFME' umfasst drei Komponenten:
 ## Datenschutz:
 Da es sich bei den Einsatzdaten um sehr vertrauliche Daten handelt, muss bei der Übertragung auf viele Standarts geachtet werden. Durch die momentane Verschlüsselungslösung können nur der Client und die berechtigten Reciever die Nachricht Entschlüsseln und Lesen. Da der Reciever die Alarmierung direkt mit den Public-Keys der zu Alarmierenden Clients verschlüsselt, ist nie eine Unverschlüsselte / für den Server entschlüsselbare Alarmierung im Internet.  
 Zudem ist in den Clients keine Möglichkeit zum Speichern der Alarmdaten implementiert, wodurch die Daten nach abschließen des Einsatzes sofort gelöscht werden.
+
+---
+
+## Links:
+Das Projekt ist zu Umfassend um in einem einzelnen Repository gespeichert zu werden, weswegen hier die dazugehörigen Repositorys gespeichert sind:
+- [SmartFME-Reciever]()
+- [SmartFME-Server-Functions]()
+- [SmartFME-Client-Android]()
