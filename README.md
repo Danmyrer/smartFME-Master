@@ -30,7 +30,7 @@ Das Projekt ist zu umfassend, um in einem einzelnen Repository gespeichert zu we
 - [SmartFME-Server-Functions](https://gitfront.io/r/henrihenr/qmhjGD8mLC8Z/SmartFME-Server-Functions-SK/)
 - [SmartFME-Client-Android](https://gitfront.io/r/henrihenr/4HMiafy6bjdu/SmartFME-Client-Android-SK/)
 
-## Links (GitHub, privat):
+<!-- ## Links (GitHub, privat):
 - [SmartFME-Receiver-Pi](https://github.com/Danmyrer/smartFME-Reciever-Pi)
 - [SmartFME-Server-Functions](https://github.com/Danmyrer/SmartFME-Server-Functions)
-- [SmartFME-Client-Android](https://github.com/Danmyrer/SmartFME-Client-Android)
+- [SmartFME-Client-Android](https://github.com/Danmyrer/SmartFME-Client-Android) -->
