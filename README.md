@@ -24,13 +24,13 @@ Zudem ist in den Clients keine Möglichkeit zum Speichern der Alarmdaten impleme
 ---
 
 
-## GitFront-Links (Sichtungskopien für Deutschlandstipendium):
+<!-- ## GitFront-Links (Sichtungskopien für Deutschlandstipendium):
 Das Projekt ist zu umfassend, um in einem einzelnen Repository gespeichert zu werden, weswegen hier die dazugehörigen Repositorys gespeichert sind:
 - [SmartFME-Receiver-Pi](https://gitfront.io/r/henrihenr/U69mmxveg8f1/smartFME-Receiver-Pi-SK/)
 - [SmartFME-Server-Functions](https://gitfront.io/r/henrihenr/qmhjGD8mLC8Z/SmartFME-Server-Functions-SK/)
-- [SmartFME-Client-Android](https://gitfront.io/r/henrihenr/4HMiafy6bjdu/SmartFME-Client-Android-SK/)
+- [SmartFME-Client-Android](https://gitfront.io/r/henrihenr/4HMiafy6bjdu/SmartFME-Client-Android-SK/) -->
 
-<!-- ## Links (GitHub, privat):
+## Links (GitHub, privat):
 - [SmartFME-Receiver-Pi](https://github.com/Danmyrer/smartFME-Reciever-Pi)
 - [SmartFME-Server-Functions](https://github.com/Danmyrer/SmartFME-Server-Functions)
-- [SmartFME-Client-Android](https://github.com/Danmyrer/SmartFME-Client-Android) -->
+- [SmartFME-Client-Android](https://github.com/Danmyrer/SmartFME-Client-Android)
